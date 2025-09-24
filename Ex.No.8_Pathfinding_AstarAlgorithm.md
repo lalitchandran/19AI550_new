@@ -136,8 +136,10 @@ Check the following
 2. Neighbors set manually via Inspector
 3. WaypointGraph script on a manager
 4. AICharacter assigned a start and goal
+```
 ### Output:
-<img width="1919" height="1079" alt="Screenshot 2025-09-24 091211" src="https://github.com/user-attachments/assets/2911da07-213c-4e2a-bf3f-d7df0da496ed" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-24 091211" src="https://github.com/user-attachments/assets/3d29225f-5590-4c6f-8f39-254aa4d0b9b3" />
+
 
 
 
